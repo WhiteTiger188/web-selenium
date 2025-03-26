@@ -1,1 +1,1 @@
-![Build Status](https://github.com/WhiteTiger188/web-selenium/workflows/gradle.yml/badge.svg)
+![Build Status](https://github.com/WhiteTiger188/web-selenium/actions/workflows/gradle.yml/badge.svg)
